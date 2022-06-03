@@ -1,0 +1,13 @@
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/AdaptiveImages.Welcome.csproj.AssemblyReference.cache
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/AdaptiveImages.Welcome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/AdaptiveImages.Welcome.AssemblyInfoInputs.cache
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/AdaptiveImages.Welcome.AssemblyInfo.cs
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/AdaptiveImages.Welcome.csproj.CoreCompileInputs.cache
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/bin/Debug/net5.0/modules/_protected/AdaptiveImages/AdaptiveImages.zip
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/bin/Debug/net5.0/AdaptiveImages.Welcome.deps.json
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/bin/Debug/net5.0/AdaptiveImages.Welcome.dll
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/bin/Debug/net5.0/AdaptiveImages.Welcome.pdb
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/AdaptiveImages.Welcome.dll
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/refint/AdaptiveImages.Welcome.dll
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/AdaptiveImages.Welcome.pdb
+/Users/kunal.shetye/Code/adaptive/src/AdaptiveImages.Welcome/obj/Debug/net5.0/ref/AdaptiveImages.Welcome.dll

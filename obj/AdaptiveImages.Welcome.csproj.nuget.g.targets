@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)adaptiveimages/2.0.4.31/build/net5.0/AdaptiveImages.targets" Condition="Exists('$(NuGetPackageRoot)adaptiveimages/2.0.4.31/build/net5.0/AdaptiveImages.targets')" />
+  </ImportGroup>
+</Project>

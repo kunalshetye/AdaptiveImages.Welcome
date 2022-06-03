@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/kunal.shetye/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/kunal.shetye/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.0.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/kunal.shetye/.nuget/packages/" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Compile Include="$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/.DS_Store" Condition="Exists('$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/.DS_Store')">
+      <NuGetPackageId>AdaptiveImages</NuGetPackageId>
+      <NuGetPackageVersion>2.0.4.31</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>.DS_Store</Link>
+    </Compile>
+    <Compile Include="$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/modules/.DS_Store" Condition="Exists('$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/modules/.DS_Store')">
+      <NuGetPackageId>AdaptiveImages</NuGetPackageId>
+      <NuGetPackageVersion>2.0.4.31</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>modules/.DS_Store</Link>
+    </Compile>
+    <Compile Include="$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/modules/_protected/.DS_Store" Condition="Exists('$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/modules/_protected/.DS_Store')">
+      <NuGetPackageId>AdaptiveImages</NuGetPackageId>
+      <NuGetPackageVersion>2.0.4.31</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>modules/_protected/.DS_Store</Link>
+    </Compile>
+    <Compile Include="$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/modules/_protected/AdaptiveImages/.DS_Store" Condition="Exists('$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/modules/_protected/AdaptiveImages/.DS_Store')">
+      <NuGetPackageId>AdaptiveImages</NuGetPackageId>
+      <NuGetPackageVersion>2.0.4.31</NuGetPackageVersion>
+      <NuGetItemType>Compile</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>modules/_protected/AdaptiveImages/.DS_Store</Link>
+    </Compile>
+    <None Include="$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/modules/_protected/AdaptiveImages/AdaptiveImages.zip" Condition="Exists('$(NuGetPackageRoot)adaptiveimages/2.0.4.31/contentFiles/any/any/modules/_protected/AdaptiveImages/AdaptiveImages.zip')">
+      <NuGetPackageId>AdaptiveImages</NuGetPackageId>
+      <NuGetPackageVersion>2.0.4.31</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>modules/_protected/AdaptiveImages/AdaptiveImages.zip</TargetPath>
+      <DestinationSubDirectory>modules/_protected/AdaptiveImages/</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>modules/_protected/AdaptiveImages/AdaptiveImages.zip</Link>
+    </None>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">/Users/kunal.shetye/.nuget/packages/microsoft.codeanalysis.analyzers/3.0.0</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgEPiServer_Framework Condition=" '$(PkgEPiServer_Framework)' == '' ">/Users/kunal.shetye/.nuget/packages/episerver.framework/12.3.0</PkgEPiServer_Framework>
+    <PkgEPiServer_CMS_Core Condition=" '$(PkgEPiServer_CMS_Core)' == '' ">/Users/kunal.shetye/.nuget/packages/episerver.cms.core/12.3.0</PkgEPiServer_CMS_Core>
+  </PropertyGroup>
+</Project>
