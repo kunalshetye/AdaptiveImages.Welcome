@@ -26,7 +26,7 @@ namespace Adaptive.Features
             {
                 Id = "all",
                 DisplayName = "All Assets",
-                Capabilities = ImageProviderOptionCapability.Search,
+                Capabilities = ImageProviderOptionCapability.Search | ImageProviderOptionCapability.List,
                 SearchResultPageSize = 10
             },
             new ImageProviderOption()
